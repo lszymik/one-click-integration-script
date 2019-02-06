@@ -77,7 +77,8 @@ one-click-integration.sh --config "/Users/username/kubeconfigdir/kubeconfig" -r 
 
 ## Auto-completion
 
-There is a nice auto-completion script which can be added for increasing the user experience [Auto-completion](./one-click-integration-script-completion.bash)
+There is a nice auto-completion script which can be added for increasing the user experience: [Auto-completion for one-click-integration.](./one-click-integration-script-completion.bash)
+
 Simply add the following command to your profile script:
 
 ```console
